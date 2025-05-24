@@ -1,0 +1,6 @@
+bonjour
+salut
+comment vas-tu ?
+je vais bien, merci !
+quel est ton nom ?
+je suis un chatbot.
